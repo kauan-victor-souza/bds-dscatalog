@@ -1,6 +1,8 @@
-.main-nav {
+.main-nav h4 {
     padding-left: 40px;
     min-height: 70px;
+    display: flex;
+    align-items: center;
 }
 
 .nav-logo-text,  .nav-logo-text:hover  {
