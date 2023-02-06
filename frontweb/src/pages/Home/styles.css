@@ -56,10 +56,6 @@
         margin-bottom: 30px;
     }
 
-    .home-content-container button {
-        width: 506px;
-    }
-
     .home-image-container svg {
         width: 506px;
     }
@@ -78,7 +74,7 @@
 }
 
 @media (min-width: 992px) {
-    
+
     .home-container {
         font-size: 55px;
         padding: 40px;
@@ -89,7 +85,7 @@
     }
 
     .home-content-container h1 {
-        width: 700px;    
+        width: 700px;
         margin-bottom: 26px;
     }
 
@@ -100,7 +96,7 @@
 
     .home-content-container {
         padding: 20px 20px 150px 20px;
-    } 
+    }
 
 }
 
@@ -114,7 +110,7 @@
     .home-content-container {
         height: 480px;
         width: 700px;
-        padding: 20px; 
+        padding: 20px;
         text-align: left;
         align-items: flex-start;
         align-content: space-between;
